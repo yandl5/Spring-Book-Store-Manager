@@ -1,4 +1,4 @@
-package entity;
+package com.yan.bookstoremanager.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
